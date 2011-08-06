@@ -1,0 +1,455 @@
+["If you have riders on the bus, you should never fuel your bus:"
+["Without a fire extinguisher beside you"
+"In a closed building"
+"With any of the windows open"]
+1]
+
+["Baggage or freight carried on a bus must be secured:"
+["In a separate compartment away from passengers"
+"In front of a standee line"
+"So any door or window can be used in an emergency"]
+2]
+
+["You are driving at night and you must dim your headlights from high to low.  What should you do with your speed?"
+["Drop 5 mph until your eyes adjust"
+"Nothing. How well you can see should not affect speed"
+"Slow down"]
+2]
+
+["A standee line on a bus:"
+["Is required when carrying less than 15 riders"
+"Indicates where you should stand when you are talking to the passengers"
+"Is the line that all riders must stay behind while the bus is moving"]
+2]
+
+["Which of these actions will result in the best control on a curve?"
+["Slow to a safe speed before entering a curve, then accelerate slightly through it"
+"Maintain constant speed through a curve, allowing the bus to lean slightly"
+"Slow to a safe speed before entering a curve, then coast through it"]
+0]
+
+["When waiting to merge into traffic you should:"
+["Always wait for a large enough gap before merging"
+"Pull out slowly and gradually reach the speed of traffic"
+"Drive on the shoulder of the road until you reach the speed of traffic"]
+0]
+
+["Which of these statements is true about managing space to the sides of your bus?"
+["You should keep your but to the right side of your lane"
+"You should avoid traveling next to others when possible"
+"You should keep your bus to the left side of your lane"]
+1]
+
+["Drivers of charter buses should not allow riders on the bus until:"
+["All baggage has been loaded"
+"All scheduled passengers have arrived at the station"
+"Departure time"]
+2]
+
+["How many folding seats are allowed in a bus that is not carrying farm workers?"
+["0"
+"4"
+"8"]
+0]
+
+["When you discharge an unruly rider, you should choose a place:"
+["Near a police station"
+"That is as safe as possible"
+"Convenient for you"]
+1]
+
+["If your bus has an emergency exit door, it must:"
+["Be closed when operating the bus"
+"Always have a red door light and it must be lighted"
+"Sound an alarm when opened"]
+0]
+
+["You may sometimes transports small arms ammunition or emergency hospital supplies on a bus. The total weight of these hazardous materials must not exceed pounds."
+["5"
+"50"
+"500"]
+2]
+
+["You are driving a 40 foot bus at a 30 mph. The road is dry and visibility is good.  You should keep a safety space in front of your bus that is at least ----- seconds."
+["8"
+"4"
+"3"]
+1]
+
+["A hazard is defined as:"
+["Another driver only"
+"A condition of the roadway or weather only"
+"Any condition which may cause your trip to be unsafe"]
+2]
+
+["Which of the following types of emergency equipment must you have on your bus"
+["Reflectors, fire extinguisher, tire repair kit"
+"First aid kit, spare electric fuses, fire extinguisher"
+"Fire extinguisher, spare electric fuses, reflectors"]
+2]
+
+["If a rider wants to get on the bus with a car battery or a can of gasoline, you should:"
+["Not allow the rider to get on"
+"Tell the rider to sit on the rear of the bus"
+"Put the battery or gasoline in the cargo compartment"]
+0]
+
+["Carry-on baggage:"
+["Always needs to be stored in the overhead compartments or under the seats"
+"Can never be left in a doorway or an aisle"
+"Should always be inspected by the driver as it is carried onto the bus"]
+1]
+
+["You should check your mirrors:"
+["Immediately after starting a lane change"
+"As you prepare to stop"
+"Regularly as a part of your scan for potential hazards"]
+2]
+
+["Buses may have recapped or regrooved tires:"
+["Only as the outside tire on a set of duals"
+"On any or all of the wheels"
+"Anywhere except the front wheels"]
+2]
+
+["You are driving a 40 foot bus at 50 mph. The road is dry and visibility is good. You should keep at least ---- seconds of space in front of your bus to be safe."
+["5"
+"6"
+"8"]
+0]
+
+["The maximum distance you should stop away from a railroad crossing is:"
+["20 feet"
+"50 feet"
+"70 feet"]
+1]
+
+["When driving, a hazard is:"
+["caused by condition you cannot control"
+"less important than an emergency"
+"anyone or anything that may cause an unsafe condition"]
+2]
+
+["You should not let riders stand:"
+["between the wheel wells"
+"within two feet of an emergency exits"
+"in front of the standee line"]
+2]
+
+["If a bus breaks down and there are passengers aboard, the bus:"
+["may be towed to the nearest service garage"
+"should not be towed until the passengers are discharged"
+"may be towed to the nearest safe spot to discharge passengers"]
+2]
+
+["Which of the following lists the three types of emergency equipment that you must have on your bus?"
+["Reflectors, fire extinguisher, tire repair kit"
+"Fire extinguisher, spare electric fuses unless equipped with circuit breakers, reflectors"
+"First aid kit, spare electric fuses unless equipped with circuit breakers, fire extinguisher"]
+1]
+
+["While driving the bus, you should:"
+["scan the interior of your bus, as well as the road ahead, to the sides and to the rear"
+"focus your attention on traffic immediately to the side of your bus"
+"scan the road 5 - 7 seconds ahead of you"]
+0]
+
+["Which of the following types of cargo can never be carried on a bus?"
+["Small arm ammunition labeled ORM-D"
+"Irritating materials or tear gas"
+"Labeled radioactive materials in the passenger area"]
+1]
+
+["If a bus leans in a curve, you:"
+["should increase your speed slightly"
+"should quickly press hard on the brake"
+"are driving too fast"]
+2]
+
+["When you inspect your bus make sure that:"
+["rider signaling devices are working"
+"emergency exit handles have been removed"
+"closed access panels are open"]
+0]
+
+["When driving a bus, you should look ---- seconds ahead."
+["3-6"
+"7-10"
+"12-15"]
+2]
+
+["The total maximum weight of hazardous materials that buses are allowed to carry is ------ pounds."
+["100"
+"250"
+"500"]
+2]
+
+["The posted speed for turns:"
+["may be too slow for a bus"
+"may be unsafe for a bus"
+"is the safe speed for a bus"]
+1]
+
+["When you discharge an unruly rider, you should use a place that is:"
+["near a police station"
+"convenient for you"
+"as safe as possible"]
+2]
+
+["Which of these statements about speed management and braking is true?"
+["Stopping time increases one second for each 10 mph over 20 mph"
+"You need about four times as much stopping distance at 40 mph as at 20 mph"
+"The total stopping distance of a bus is the distance it takes to stop once the brakes are put on"]
+2]
+
+["You are driving on a slippery road during the day. How much space does the Commercial Driver Supplement say you should keep ahead of you?"
+["Add "one second to the space needed in good road conditions""
+"Allow" on car length for every 10mph""
+"Allow " much more space" than needed for ideal driving conditions"]
+2]
+
+["Buses are not allowed to carry more than ----- pounds of any one class of allowed hazardous materials."
+["100"
+"250"
+"500"]
+0]
+
+["A bus must stop at least ----- feet before the draw of a drawbridge that does not have a signal light or an attendant."
+["10"
+"30"
+"50"]
+2]
+
+["When driving a bus, the emergency roof hatches:"
+["must always be completely closed and locked while the bus is moving"
+"may be locked in a partially open position for fresh air"
+"may be left in a closed but unlocked position"]
+1]
+
+["You are driving a 30 foot bus on a highway. The road is dry and visibility is good.  The distance between you and the vehicle ahead of you should be not less than:"
+["3 seconds"
+"4 seconds"
+"5 seconds"]
+1]
+
+["When is it OK to drive with an emergency exit door open?"
+["It is never OK to drive with an emergency exit door open"
+"When you will only be moving a short distance"
+"If the temperature in the cabin is uncomfortably hot"]
+0]
+
+["To stop for railroad tracks, a bus driver should stop ---- to ---- feet before the nearest track."
+["5:20"
+"10:35"
+"15:50"]
+2]
+
+["You should not let riders stand:"
+["In front of the standee line"
+"between the wheel walls"
+"within two feet of an emergency exit"]
+0]
+
+["Your bus is disabled. A bus with riders aboard, may be towed or pushed to a safe spot to discharge the passengers only:"
+["if the distance is less than 1 mile"
+"if getting off the bus sooner would be unsafe"]
+1]
+
+["If you work for an interstate carrier, you must complete an after-trip inspection report that specifies for each bus:"
+["any defects that would affect the safety or result in a breakdown"
+"fuel usage, distance traveled, and mileage for that trip"
+"any problems that occurred with riders"]
+0]
+
+["Carrying hazardous materials on a bus is:"
+["permitted if the material's container is placarded"
+"permitted if they meet certain conditions"
+"never permitted"]
+1]
+
+["Many buses have curved (convex or "spot") mirrors. These mirrors:"
+["are against the law in some states"
+"make things smaller and farther away than they really are"
+"do not need to be checked often because they show a larger area"]
+1]
+
+["You must sign the inspection report made by the previous driver only:"
+["when some of the repairs have not been made"
+"if the driver who filled out the report is present"
+"if the defects reported have been certified as repaired or not needing repair"]
+2]
+
+["You should check your mirrors:"
+["right after starting a lane change"
+"as you are preparing to stop"
+"regularly as part of your scab for potential hazards"]
+2]
+
+["A bus may carry baggage and freight only if it is:"
+["stored in a separate baggage or freight compartment"
+"owned by a riding passenger"
+"secured and out of the way of any exit"]
+2]
+
+["You are driving at night and you must dim your headlights from dim to low. What should you do with your speed?"
+["Drop 5 mph until your eyes adjust"
+"Slow down"
+"Nothing. How well you can see should not affect your speed"]
+1]
+
+["While driving a bus, a bus driver:"
+["can only talk with riders if cruising on a highway"
+"should only allow riders to talk to you if they can stay in their seat"
+"should never talk unnecessarily with riders"]
+2]
+
+["Which of these statements about seeing ahead is true?"
+["Good drivers shift their attention back and forth, near and far"
+"Good drivers keep their attention on one place for 12-15 seconds at a time"
+"At highway speeds, you should look 3-5 seconds ahead of you"]
+0]
+
+["When driving a bus across railroad tracks you:"
+["do not have to stop, but must slow down at tracks where the crossing gates are in the upright position"
+"may sometimes need to stop more than 75 feet from the tracks"
+"should never change gears if bus has a manual transmission"]
+2]
+
+["Which of these will result on the best control in curves?"
+["Brake all the way through curves"
+"Slow to a safe speed before entering curves, then accelerate slightly through the curves"
+"Slow to a safe speed before entering curves, then coast through them"]
+1]
+
+["Buses are allowed to carry less than 100 pounds of --- in the passenger area"
+["small arms ammunition (ORM-D)"
+"labeled radio active materials"
+"liquid Class 6 poisons"]
+0]
+
+["When you arrive at a bus stop, you should announce the:"
+["reason for stopping, next departure time, estimated time of arrival,(ETA) at next destination, and the bus number"
+"location, reason for stopping, ETA of arrival for next destination, and the bus number"
+"location, reason for stopping, next departure time, and the bus number"]
+2]
+
+["If there is no traffic light or attendant, stop for a drawbridge about --- feet from the draw"
+["25"
+"50"
+"100"]
+1]
+
+["You are driving a 40 foot bus at 30mph. The road is dry and visibility is good.  You should keep a safety spot in front of your bus that is at least ---- seconds."
+["8"
+"4"
+"3"]
+1]
+
+["A hazard is defined as:"
+["another driver"
+"a condition of the roadway or weather"
+"any condition that may cause your trip to be unsafe"]
+2]
+
+["A standee line on a bus:"
+["is required when carrying less than 15 riders"
+"indicates where you should stand when you are talking to the passengers"
+"is the line that all riders must stay behind while the bus is moving"]
+2]
+
+["Your bus is disabled. The bus, with riders aboard, may be towed or pushed to a safe spot to discharge the passengers only if:"
+["the distance is less than 1 mile"
+"a peace officer of rescue crew is present"
+"getting off the bus sooner would be unsafe"]
+2]
+
+["How many folding seats are allowed in a bus that is not carrying farm workers?"
+["0"
+"4"
+"8"]
+0]
+
+["Which of the following lists the three types of emergency equipment that you must have on your bus?"
+["Reflectors, fire extinguisher, tire repair kit"
+"First aid kit, spare electric fuses unless equipped with circuit breakers, fire extinguisher"
+"Fire extinguisher, spare electric fuses unless equipped with circuit breakers, reflectors"]
+2]
+
+["If you have riders aboard, you should never fuel your bus:"
+["without a fire extinguisher beside you"
+"in a closed building"
+"with any of the windows open"]
+1]
+
+["If a rider wants to bring a car battery or a can of gasoline aboard your bus, you should:"
+["not allow the rider to do it"
+"tell the rider to sit in the rear of the bus"
+"put the battery or gasoline in the cargo compartment"]
+0]
+
+["You should check your mirrors:"
+["right after starting a lane change"
+"as you are preparing to stop"
+"regularly as part of your scan for potential hazards"]
+2]
+
+["If your bus has an emergency exit door, it must:"
+["be closed when operating the bus"
+"always have a red door light on"
+"sound an alarm when opened"]
+0]
+
+["You are driving at night and you must dim your headlights from high to low. What should you do with your speed?"
+["Drop 5 mph until your eyes adjust"
+"Nothing. How well you can see should not affect speed"
+"Slow down"]
+2]
+
+["Carry on baggage:"
+["always needs to be stored in the overhead compartments or under the seats"
+"can never be left in a doorway or an aisle"
+"should always be inspected by the driver as it is carried on to the bus"]
+1]
+
+["Which of these statements about managing space to the sides of your bus is true?"
+["You should keep your bus to the right side of your lane"
+"You should avoid traveling next to others when possible"
+"You should keep your bus to the left side of your lane"]
+1]
+
+["When you discharge an unruly rider, you should choose a place that is:"
+["near a police station"
+"as safe as possible"
+"convenient for you"]
+1]
+
+["When waiting to pull out into traffic, you should:"
+["always wait for the proper gap"
+"put out slowly"
+"drive on the shoulder until you reach the speed of traffic"]
+0]
+
+["Which of these will result in the best control on curves?"
+["Slow to a safe speed before entering curves, then accelerate slightly through them"
+"Maintain constant speed through curves, keeping the bus leaning slightly"
+"Slow to a safe speed before entering curves, then coast through them"]
+0]
+
+["Baggage or freight carried on a bus must be secured:"
+["in a separate compartment away from passengers"
+"in front of the standee line"
+"so any door or window can be used in an emergency"]
+2]
+
+["You may sometimes transport small arms ammunition or emergency hospital supplies on on a bus. The total weight of all such hazardous material must not be more than ---- pounds"
+["5"
+"50"
+"500"]
+2]
+
+["Charter bus drivers should not allow riders on the bus until:"
+["all baggage has been loaded"
+"all scheduled passengers have arrived at the station"
+"departure time"]
+2]
+

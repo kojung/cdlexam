@@ -1,0 +1,140 @@
+html {
+    font-family: "Lucida Grande","Lucida Sans Unicode",Tahoma,Verdana,sans-serif;
+}
+
+body a {
+    color: #B88A00;
+    text-decoration: none;
+}
+
+body a:hover {
+    color: #D54E21;
+}
+
+body {
+    background-color: #FFFFFF;
+    font-family: "Lucida Grande","Lucida Sans Unicode",Tahoma,Verdana,sans-serif;
+    margin: 3%;
+    padding: 0;
+}
+
+div#header {
+    text-align: center;
+}
+
+span#title {
+    font-size: 200%;
+    vertical-align: bottom;
+    margin-left: 0.2em;
+}
+
+div#content {
+    margin: 0px 5% 20px 5%;
+    min-height: 400px;
+}
+
+div#footer {
+    margin: 0;
+    padding: 0.5em;
+    font-size: 90%;
+    clear: both;
+    text-align: center;
+}
+
+div.footrow {
+    padding: 0.5em;
+}
+
+span.footlink {
+    padding: 0px 0.5em 0 0.5em;
+}
+
+div.test-category, 
+div.question {
+    border: 2px solid;
+    width: 70%;
+    margin-left: auto ;
+    margin-right: auto ;
+    padding: 5%;
+    background-color: #FFFFCC;
+    -moz-box-shadow: 3px 3px 4px #000;
+    -webkit-box-shadow: 3px 3px 4px #000;
+    box-shadow: 3px 3px 4px #000;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#000000')";
+    /* For IE 5.5 - 7 */
+    filter: progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#000000');
+}
+
+div.test-category {
+    width: 50%;
+    text-align: center;
+    font-size: 130%;
+}
+
+div.question-category {
+    font-size: 150%;
+    padding: 0 0 0.5em 0;
+    text-align: center;
+}
+
+div.question-counter {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0.5em;
+    text-align: center;
+}
+
+div.question-description {
+    padding: 1em;
+}
+
+div.question-options {
+    padding-left: 2em;
+    text-indent: -2em;
+}
+
+div.question-options:hover {
+    background-color: #ffff00;
+}
+
+input.question-radio {
+    margin: 1em;
+}
+
+div.question-confirm {
+    border: 1px solid;
+    text-align: center;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2em;
+    padding: 0.5em;
+    background-color: orange;
+    color: #000000;
+    display: none;
+}
+
+div.next-button {
+    border: 1px solid;
+    text-align: center;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1em;
+    padding: 0.5em;
+    margin-bot: 0px;
+    display: none;
+}
+
+span.correct-counter {
+    color: green;
+}
+
+span.incorrect-counter {
+    color: red;
+}
+
+div.summary-header {
+    text-align: center;
+    font-size: 150%;
+}

@@ -1,0 +1,450 @@
+["If you have an accident, the law requires you to exchange your driver license information with:"
+["Fire fighters"
+"Others involved in the accident"
+"Security guards"]
+1]
+
+["When traffic is slow and heavy and you must cross railroad tracks before reaching the upcoming intersection, you should:"
+["Stop between the crossing gates in case they close"
+"Stop on the tracks and wait for your light to turn green"
+"Wait until you completely cross the tracks before proceeding"]
+2]
+
+["To make a right turn onto a two-way street, start in the right-hand lane and end in:"
+["The left lane"
+"The lane closest to the curb"
+"Any lane that is available"]
+1]
+
+["You are at a red traffic signal. The traffic light turns green, but there are still other vehicles in the intersection. You should:"
+["Wait until the vehicles clear the intersection before entering"
+"Move ahead only if you can go around the other vehicle safely"
+"Enter the intersection and wait for traffic to clear"]
+0]
+
+["U-turns in residential districts are legal:"
+["On a one-way street at a green arrow"
+"When there are no vehicles approaching nearby"
+"Across two sets of solid double, yellow lines"]
+1]
+
+["Always look carefully for motorcycles before changing lanes because:"
+["Their smaller size makes them harder to see"
+"They usually have the right-of-way at intersection"
+"It is illegal for motorcycles to share traffic lanes"]
+0]
+
+["It is illegal for a person 21 years of age or older to drive with a blood alcohol concentration (BAC) that is ----- or higher"
+["0.10 %- One tenth of one percent"
+"0.08 %- Eight hundredths of one percent"
+"0.05 %- Five hundredths of one percent"]
+1]
+
+["You are driving 45 mph in a 55 mph zone. You could be given a citation for speeding:"
+["Only if you are approaching a sharp curb on the road"
+"Under no circumstances because it is always legal"
+"If road or weather conditions require an even slower speed"]
+2]
+
+["If there is a solid double, yellow line in the center of the roadway, you:"
+["May turn left into a private driveway"
+"Are on a one-way street"
+"Are in a center left-turn lane"]
+0]
+
+["When driving at night on a dimly lit street, you should:"
+["Drive slowly enough so you can stop within the area lighter by your headlights"
+"Look directly at oncoming headlights for a short time"
+"Keep instrument lights bright to be more visible to other drivers"]
+0]
+
+["A green arrow means go, but first you must:"
+["Yield to any vehicle, bicycle, or pedestrian in the intersection"
+"Check the vehicle behind you in your rear view mirror"
+"Wait five seconds before proceeding"]
+0]
+
+["You should dim your lights for oncoming vehicles or when you are within 300 feet of a vehicle:"
+["You are approaching from behind"
+"Approaching you from behind"
+"You have already passed"]
+0]
+
+["You are going to make a left turn from a dedicated left-turn lane when a yellow arrow appears to your lane. You should:"
+["Speed up to get through the intersection"
+"Stop and not turn under any circumstances"
+"Be prepared to obey the next signal that appears"]
+2]
+
+["When you enter traffic from a stop (ex. pulling away from the curb), You:"
+["Should drive slowly than other traffic for 200 feet"
+"Need a large enough gap to get up to the speed of traffic"
+"Should wait for the first vehicle to pass, then pull into the lane"]
+1]
+
+["You must notify DMV within five days if you:"
+["Modify your vehicle's exhaust system"
+"Sell or transfer your vehicle"
+"Paint your vehicle a different color"]
+1]
+
+["If you see orange construction signs/ cones on a freeway, you must:"
+["Slow down because the lane ends ahead"
+"Be prepared for workers and equipment ahead"
+"Change lanes and maintain your current speed"]
+1]
+
+["A law enforcement officer notices that on of your passengers is not wearing a seat belt and writes citation. Which of the following is true?"
+["Both you and your passenger will receive a citation"
+"Your passenger will receive the citation, regardless of age"
+"You may receive the citation if the passenger is 15 or younger"]
+2]
+
+["You are driving on the freeway behind a large truck. You should drive:"
+["Closely behind in bad weather. The driver can see farther ahead"
+"Farther behind the truck than for a passenger car"
+"To the right side of the truck and wait to pass"]
+1]
+
+["To see cars in your blind spots. You should check:"
+["The inside rearview mirror"
+"The outside rearview mirror"
+"Over your shoulders"]
+2]
+
+["While all of the following are dangerous to do while driving, which is also illegal?"
+["Listening to music through a set of dual headphones"
+"Adjusting your outside mirrors"
+"Reading a road map"]
+0]
+
+["Which of the following is true about roadways on bridges and overpasses in cold, wet weather?"
+["They tend to freeze before the rest of the road does"
+"They do not freeze because they are made of concrete"
+"They tend to freeze after the rest of the road does"]
+0]
+
+["You reach an intersection with stop signs on all for corners at the same time as the driver on your left. Who has the right-of- way?"
+["The driver on your left has the right- of -way"
+"You have the right-of-way"
+"Whoever is signaling to make a turn has the right-of-way"]
+1]
+
+["You must stop before you cross railroad tracks when:"
+["You don't have room to completely cross the tracks"
+"The crossing is located in a city or town with frequent train traffic"
+"You transport two or more children in a passenger vehicle"]
+0]
+
+["You are involved in a minor accident at an intersection. There are no injuries and little vehicle damage. You should:"
+["Leave your vehicle in the traffic lane until law enforcement arrives"
+"Move your vehicle out of the traffic lane, if possible"
+"Not move your vehicle for any reason"]
+1]
+
+["Tailgating other drivers (driving too close to their rear bumper):"
+["Can frustrate other drivers and make them angry"
+"Cannot result in a traffic citation"
+"Reduces accident by preventing you from being "cut off""]
+0]
+
+["Driving under the influence of any medication which impairs your driving is permitted:"
+["Under no circumstances"
+"If you don't feel drowsy"
+"If it is prescribed by a physician"]
+0]
+
+["You must notify DMV within 5 days of you:"
+["Modify your vehicle's exhaust system"
+"Sell or transfer your vehicle"
+"Paint your vehicle a different color"]
+1]
+
+["When you don't see any other vehicles around you while driving:"
+["You may legally exceed the posted speed limit"
+"It is a good habit to signal for turns and lane changes anyway"
+"You do not need to stop completely for stop signs"]
+1]
+
+["What is the benefit of a space cushion around your vehicle?"
+["Other drivers can "cut" in front of you, improving traffic flow"
+"If another driver makes a mistake, you have time to react"
+"It inflates to protect you from injury in case of an accident"]
+1]
+
+["Backing your vehicle is:"
+["Always dangerous to do"
+"Not dangerous if you have a helper"
+"Only dangerous in large vehicles"]
+0]
+
+["When driving on a multilane street with other vehicles:"
+["Drive alongside the other vehicles so the drivers can see you"
+"You should drive ahead of or behind the other vehicles"
+"It is safest to drive in the lane next to the center line"]
+1]
+
+["Which of these statements is true about slippery road surfaces"
+["Driving on wet leaves on the road will give you extra traction"
+"On cold days, shade from buildings/trees can hide spots of ice"
+"The pavement is less slippery when it first starts to rain on a hot day than it is afterwards"]
+1]
+
+["It is most important to turn your front wheels toward the curb when you parked:"
+["Facing downhill"
+"Facing uphill"
+"On a level road"]
+0]
+
+["nless otherwise posted, the speed limit in a business district is:"
+["25 mph"
+"35 mph"
+"30 mph"]
+0]
+
+["A bus has stopped ahead on your side of the road and is flashing its red lights.  What should you do?"
+["Stop first, then proceed when you think it is safe"
+"Stop as long as the red lights flash"
+"Stop until all the children have crossed your lane"]
+1]
+
+["You are driving on a four-lane freeway in the lane closest to the center divider.  To exit the freeway on the right you should:"
+["Carefully cross all the lanes at one time"
+"Change lanes one at a time until you are in the proper lane"
+"Slow before beginning each lane change"]
+1]
+
+["What is the best advice for driving when heavy fog or dust occurs?"
+["Try not to drive until the conditions improve"
+"Do not drive too slowly, because other drivers may hit you"
+"Alternate your low and high beams to improve your vision"]
+0]
+
+["If your vehicle is going to be hit from behind you should:"
+["Be ready to brake after impact"
+"Hold down the brake pedal"
+"Shift to neutral and turn off the ignition"]
+0]
+
+["Where should you stop your vehicle when there is no limit line?"
+["Just pass the corner"
+"At the corner"
+"After the crosswalk"]
+1]
+
+["When you are in a dedicated turn lane controlled by a green arrow, Which of the following is true?"
+["All vehicles or pedestrians in the intersection must yield to you"
+"All oncoming vehicles and pedestrians are stopped by red lights"
+"You may turn in the arrow's direction without checking traffic"]
+1]
+
+["You should usually drive your vehicle slower when:"
+["You see brake lights coming on several vehicles ahead of you"
+"Passing large trucks on the freeway"
+"You want to look at a controlled accident scene"]
+0]
+
+["There are two traffic lanes in your direction. You are driving in the left lane and many cars are passing you on the right. You should:"
+["Stay in your lane so you don't impede the traffic flow"
+"Pull onto the left shoulder to let the other vehicles pass"
+"Move over into the right lane when it is safe"]
+2]
+
+["You are driving slowly in the fast lane of a four-lane freeway.  There is traffic behind you in your lane. The driver behind you wishes to drive faster. You should:"
+["Not change lanes if you are driving the speed limit"
+"Change lanes to the right when safe to do so"
+"Only change lanes if five or more vehicles are behind you"]
+1]
+
+["You are required to wear your safety belt in a moving vehicle:"
+["Unless your vehicle was manufactured before 1975"
+"Unless you are riding in the back of a pickup/camper"
+"If your vehicle is equipped with safety belts"]
+2]
+
+["A large truck is driving in the middle of three lanes. You want to pass the large truck. it is best to pass:"
+["Quickly on the left and move ahead of it"
+"Very slowly on the left and move ahead of it"
+"Very quickly on the right and move ahead of it"]
+0]
+
+["If an oncoming vehicle has started to turn left in front of you:"
+["Honk your horn to warn the driver and maintain your speed"
+"Maintain your speed and take your right-of-way"
+"Slow or stop your car to prevent an accident"]
+2]
+
+["At dawn or dusk, or in rain or snow, it can be hard to see and be seen. A good way to let other drivers know you are there is to:"
+["Use your horn once in a while"
+"Turn on your parking lights"
+"Turn on your low-beam headlights"]
+2]
+
+["You were in an accident which caused more than $500 worth of damage. You must report the accident within 10 days to"
+["The DMV"
+"The CHP"
+"Your insurance company"]
+0]
+
+["Which of these vehicles must stop before crossing railroad tracks?"
+["Tank trucks marked with hazardous materials placards"
+"Motor homes or pickup trucks towing a trailer"
+"Sport utility vehicles carrying four or more persons"]
+0]
+
+["Driving faster than traffic and continually passing other cars:"
+["Will get you to your destination much faster and safer"
+"Increases your chances of an accident"
+"Helps to prevent traffic congestion"]
+1]
+
+["You want to turn left ahead. In the middle of the road there is a lane mark as shown.  You must:"
+["Turn from your current traffic lane after signaling"
+"Merge completely into this lane before you make your left turn"
+"Not enter this lane for any reason"]
+1]
+
+["You are driving on a road with only one lane in each direction.  You want to pass another vehicle, but there is a curve approaching which blocks your view of the road ahead. You must:"
+["Not pass the other vehicle"
+"Increase your speed to pass safety"
+"Signal longer than five seconds to pass safely"]
+0]
+
+["You may cross double, yellow lines to pass another vehicle if the:"
+["Vehicle in front of you moves to the right to let you pass"
+"Yellow line next to your side of the road is broken"
+"Yellow line next to the other side of the road is broken"]
+1]
+
+["When changing lanes on a freeway, you should:"
+["Signal for at least five seconds"
+"Cross several lanes at a time to avoid slow down"
+"Avoid driving over broken white lines and lane markings"]
+0]
+
+["Which of these statements is true about road construction zones?"
+["Fines are the same for violations committed in construction zones"
+"You are responsible for the safety of the road workers"
+"Slow down only if you think workers are present"]
+1]
+
+["You are driving on a one-way street. You may turn left onto another one-way street:"
+["Only if a sign permits the turn"
+"If traffic on the street moves to the right"
+"If traffic on the street moves to the left"]
+2]
+
+["You should use your horn when:"
+["Another vehicle is in your way"
+"It may help prevent an accident"
+"Another driver makes a mistake"]
+1]
+
+["Animals may be transported in the back of a pickup truck only if:"
+["The sides of the truck bed are at least 18 inches high"
+"They are properly secured"
+"The tailgate of the truck is closed"]
+1]
+
+["What is the difference between traffic lights with red arrows and those with solid red lights?"
+["Red arrows are only used to stop traffic which is turning left"
+"Red arrows are only used for protected turn lanes"
+"You cannot turn against red arrow, even if you stop first"]
+2]
+
+["When planning to pass another vehicle you should:"
+["Not assume they will make space for you to return to your lane"
+"Assume they will let you pass if you use your turn signal"
+"Assume they will maintain a constant speed"]
+0]
+
+["You should not start across an intersection if you know you will block the intersection when the light turns red:"
+["Under any circumstances"
+"Unless you enter the intersection on a green arrow"
+"Unless you enter the intersection on a green light"]
+0]
+
+["You are approaching a sharp curve in the road. You should:"
+["Start braking before you enter the curve"
+"Start braking as soon as you enter the curve"
+"Accelerate into the curve and brake out of it"]
+0]
+
+["Which of the following about safety belts?"
+["They make it more likely you will drown if your car goes into a lake or river"
+"They keep you from being thrown clear to safety, which lowers your chances of surviving accidents"
+"They increase your chances of survival in most types of accidents"]
+2]
+
+["When sharing the road with a trolley or light rail vehicle:"
+["Never turn in front of an approaching trolley or light rail vehicle"
+"Always pass a light rail vehicle or trolley slowly on the right"
+"Remember they are loud and move slowly like freight trains"]
+0]
+
+["If five or more vehicles are following you on a narrow two-lane road, you should:"
+["Move to the right side of your lane and drive slowly"
+"Pull off the road when it is safe and let them pass"
+"Continue driving because you have the right-of-way"]
+1]
+
+["You park your car at the curb on a level two-way street. Before getting out of your car, you should:"
+["Look for cars or bicycles on the traffic side of your vehicle"
+"Turn your front wheel towards the curb"
+"Make sure you are parked at least two feet from the curb"]
+0]
+
+["Which of these is a legal U-turn?"
+["On a highway where there is a paved opening for a turn"
+"150 feet away from a hill or curve"
+"Over two sets of double, yellow lines in the roadway"]
+0]
+
+["If you are unable to see the road ahead while driving because of heavy rain or fog, and your wipers do not help, you should:"
+["Slow down and continue driving"
+"Turn on your high beams and continue driving"
+"Pull off the road completely until visibility improves"]
+2]
+
+["If you approach a curve or the top of a hill and you do not have a clear view of the road ahead you should:"
+["Pull over and wait for the conditions to improve"
+"Use your high beam lights to be more visible"
+"Slow down so you can stop if necessary"]
+2]
+
+["You are crossing an intersection and an emergency vehicle is approaching with a siren and flashing lights. You should:"
+["Stop immediately in the intersection until it passes"
+"Pull to the right in the intersection and stop"
+"Continue through the intersection, pull to the right, and stop"]
+2]
+
+["When driving near road construction zones, you should:"
+["Slow down to watch the construction as you pass"
+"Step on your brakes just before you pass the construction"
+"Pass the construction zone carefully and avoid "rubbernecking""]
+2]
+
+["You may legally park your car in front of a driveway:"
+["If the driveway is in front of your house"
+"As long as it is parked for longer than 15 minutes"
+"Under no circumstances"]
+2]
+
+["You see a car approaching from the rear. When you check your mirror again to change lanes, you no longer see the car. You should:"
+["Look over your shoulder to be sure the car isn't in your blind spot"
+"Turn your signal on and change lanes slowly"
+"Signal, honk your horn, and change lanes quickly"]
+0]
+
+["When parked on any hill, always set your parking brake and:"
+["Leave your vehicle in neutral"
+"Keep your front wheels parallel to the road"
+"Leave your vehicle in gear or the "park" position"]
+2]
+
+["You are driving 55 mph on a two-lane highway, one lane in each direction, and want to pass the car ahead of you. To pass safely, you need to:"
+["Wait until solid double, yellow lines separate the lanes"
+"Increase your speed to 65 mph"
+"Have at least a 10 to 12 second gap in the oncoming traffic"]
+2]
+
