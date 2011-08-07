@@ -1,7 +1,13 @@
 Commercial Driver License Exam
 
-This is the source code for a web app written in Clojure.
+This is the source code for a web app written in Clojure, running on Google App Engine.
 
 To see the site in action, go to http://cdlexam.appspot.com
+
+To build:
+
+> lein deps
+> lein appengine-prepare
+> appcfg.sh update
 
 Distributed under the Eclipse Public License, the same as Clojure.
